@@ -1,0 +1,10 @@
+img {
+    width:24px;
+    height:24px;
+}
+
+.selfie {
+    width:256px;
+    height:256px;
+    border-radius: 50%;
+}
